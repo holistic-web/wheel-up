@@ -8,6 +8,6 @@ When on the youtube website, a user can click the extension to reveal a pop up a
 We are following the standards outlined by google [here](https://developers.chrome.com/extensions/getstarted).
 
 ## Architecture
-- [`/manifest.json`](/manifest.json): [Every extension has a JSON-formatted manifest file, named manifest.json, that provides important information.](https://developers.chrome.com/extensions/manifest)
-- [`/src/background.js`](/src/background.js): [Extensions monitor events in their background script, then react with specified instructions.](https://developers.chrome.com/extensions/background_pages)
-- [`/src/views/popup.html`](/src/views/popup.html): [User Interface.](https://developers.chrome.com/extensions/user_interface)
+- [`/manifest.json`](/manifest.json): Every extension has a JSON-formatted manifest file, named manifest.json, that provides important information. [Read more](https://developers.chrome.com/extensions/manifest).
+- [`/src/background.js`](/src/background.js): Extensions monitor events in their background script, then react with specified instructions. [Read more](https://developers.chrome.com/extensions/background_pages).
+- [`/src/views/popup.html`](/src/views/popup.html): [User Interface](https://developers.chrome.com/extensions/user_interface)
