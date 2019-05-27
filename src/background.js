@@ -4,7 +4,7 @@ const pageChangeListener = () => {
 			conditions: [
 				new chrome.declarativeContent.PageStateMatcher(
 					{
-						pageUrl: { hostEquals: 'developer.chrome.com' },
+						pageUrl: { hostEquals: 'youtube.com' },
 					}
 				)
 			],
