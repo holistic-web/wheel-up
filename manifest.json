@@ -1,6 +1,11 @@
 {
-    "name": "Youtube Wheelup",
-    "version": "1.0",
-    "description": "A chrome extension to enable a user to 'wheel-up' a song playing on youtube.",
-    "manifest_version": 2
-  }
+	"manifest_version": 2,
+	"name": "Youtube Wheelup",
+	"version": "1.0",
+	"description": "A chrome extension to enable a user to 'wheel-up' a song playing on youtube.",
+	"permissions": ["storage"],
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	}
+}
