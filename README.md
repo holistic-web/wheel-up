@@ -1,5 +1,5 @@
 # Youtube Wheel-Up
-A chrome extension to enable a user to 'wheel-up' a song playing on youtube.
+A chrome extension to enable a user to _'wheel-up'_ a song playing on youtube.
 
 ![](/assets/images/readme.gif)
 
@@ -14,3 +14,10 @@ We are following the standards outlined by google [here](https://developers.chro
 
 ## Publishing
 Publishing this app is currently done manually following the steps outlined here: https://developer.chrome.com/webstore/publish
+
+## Development
+To install this app on a single machine:
+1. download this project onto your computer
+2. navigate to `chrome://extensions` in chrome
+3. click the `Load Unpacked` button
+4. select this projects folder on your local machine
