@@ -12,7 +12,7 @@ We are following the standards outlined by google [here](https://developers.chro
 - [`/src/background.js`](/src/background.js): Extensions monitor events in their background script, then react with specified instructions. [Read more](https://developers.chrome.com/extensions/background_pages).
 - [`/src/views/popup.html`](/src/views/popup.html): [User Interface](https://developers.chrome.com/extensions/user_interface)
 
-## Publishing
+## Publishing
 Publishing this app is currently done manually following the steps outlined here: https://developer.chrome.com/webstore/publish
 
 ## Development
