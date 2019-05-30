@@ -18,6 +18,6 @@ Publishing this app is currently done manually following the steps outlined here
 ## Development
 To install this app on a single machine:
 1. download this project onto your computer
-2. navigate to `chrome://extensions` in chrome
+2. navigate to `chrome://extensions` in chrome and set developer mode on
 3. click the `Load Unpacked` button
 4. select this projects folder on your local machine
