@@ -1,5 +1,5 @@
 # Youtube Wheel-Up
-A chrome extension to enable a user to _'wheel-up'_ a song playing on youtube.
+A chrome extension to enable a user to _'wheel-up'_ (go back to the beginning of) a song playing on youtube.
 
 ![preview](/assets/images/readme.png)
 
