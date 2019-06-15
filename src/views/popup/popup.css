@@ -1,9 +1,0 @@
-#wheelup {
-	background-image: url('/assets/images/wheel-up.png');
-	background-size: contain;
-	background-repeat: none;
-	width: 5rem;
-	height: 5rem;
-	cursor: pointer;
-	border-radius: 0.5rem;
-}

@@ -1,13 +1,15 @@
-# Youtube Wheel-Up
-A chrome extension to enable a user to _'wheel-up'_ (go back to the beginning of) a song playing on youtube.
+# Wheel Up
+A service to enable a user to have greater control of the music they are playing.
 
-![preview](/assets/images/readme.png)
-
-When on the youtube website, a user can click the extension to reveal a pop up allowing them to wheel up the current youtube song to the beginning.
-
-We are following the standards outlined by google [here](https://developers.chrome.com/extensions/getstarted).
+![The chrome extension](/.project/assets/extension-initial.png)
+_The chrome extension_
 
 ## Architecture
+- [chrome-extension](/chrome-extension): the chrome extension to allow a user to control music they are playing.
+
+## Project
+Information about the project can be found in the [/.project](/.project) folder, it contains:
+- [roadmap.md](/.project/roadmap.md)
 - [`/manifest.json`](/manifest.json): Every extension has a JSON-formatted manifest file, named manifest.json, that provides important information. [Read more](https://developers.chrome.com/extensions/manifest).
 - [`/src/background.js`](/src/background.js): Extensions monitor events in their background script, then react with specified instructions. [Read more](https://developers.chrome.com/extensions/background_pages).
 - [`/src/views/popup.html`](/src/views/popup.html): [User Interface](https://developers.chrome.com/extensions/user_interface)
