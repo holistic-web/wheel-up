@@ -10,7 +10,7 @@ We are currently only developing in Google Chrome:
 
 1. navigate to this folder and ensure dependencies are installed with `npm install`.
 
-2. ensure https://chrome.google.com/webstore/detail/extensions-reloader is installed
+2. ensure [extension-reloader](https://chrome.google.com/webstore/detail/extensions-reloader/fimgfedafeadlieiabdeeaodndnlbhid) is installed
 	_reloads the extension whenever the code is updated_
 
 2. Start development mode by running `npm run build-watch`
