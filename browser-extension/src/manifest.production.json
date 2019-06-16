@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "wheel-up",
+    "description": "An extension to enable a user to 'wheel-up' a song playing on youtube.",
+    "version": "0.0.1",
+    "options_page": "options.html",
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
